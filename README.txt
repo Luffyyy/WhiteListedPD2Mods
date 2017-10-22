@@ -26,3 +26,11 @@ Crimespree Hide Modifiers and Rewards
 Look My Gun
 Skin Hider
 Burstfire
+Throwables In Team Loadout
+Drag and Drop Inventory
+Inventory Chat & Player States
+Lobby Player Info
+BLT Networking Fix
+No Contract Broker Images
+Mod List Lite
+Pager Contour
