@@ -25,3 +25,4 @@ Old Lobby Poses Restoration
 Crimespree Hide Modifiers and Rewards
 Look My Gun
 Skin Hider
+Burstfire
