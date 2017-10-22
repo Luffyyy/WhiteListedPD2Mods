@@ -27,3 +27,4 @@ Look My Gun
 Skin Hider
 Burstfire
 RestorationMod
+Real Weapon Names
