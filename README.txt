@@ -28,3 +28,11 @@ Skin Hider
 Burstfire
 RestorationMod
 Real Weapon Names
+Throwables In Team Loadout
+Drag and Drop Inventory
+Inventory Chat & Player States
+Lobby Player Info
+BLT Networking Fix
+No Contract Broker Images
+Mod List Lite
+Pager Contour
