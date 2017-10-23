@@ -26,7 +26,6 @@ Crimespree Hide Modifiers and Rewards
 Look My Gun
 Skin Hider
 Burstfire
-RestorationMod
 Real Weapon Names
 Throwables In Team Loadout
 Drag and Drop Inventory
