@@ -39,3 +39,6 @@ Heist Weather Changer
 Crime Spree Starting Level Fix
 Loot Drop Weapon Mod Limit Removal
 Disable Safehouse Raid
+Narrative tweakdata fixed
+Lobby Settings
+Flashing Swan Song
