@@ -35,3 +35,7 @@ BLT Networking Fix
 No Contract Broker Images
 Mod List Lite
 Pager Contour
+Heist Weather Changer
+Crime Spree Starting Level Fix
+Loot Drop Weapon Mod Limit Removal
+Disable Safehouse Raid
