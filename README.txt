@@ -42,3 +42,6 @@ Disable Safehouse Raid
 Narrative tweakdata fixed
 Lobby Settings
 Flashing Swan Song
+Hours in chat
+Stop the crimespree loss on crash
+TwoClickSafeHouse
